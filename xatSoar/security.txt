@@ -1,0 +1,3 @@
+Contact: alex@valkyrie.gg
+Acknowledgments: https://soaring.org/acknowledgements
+Preferred-Languages: en

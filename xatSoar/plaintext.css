@@ -1,0 +1,10 @@
+html {
+	unicode-bidi: plaintext;
+}
+	
+pre {
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	-moz-control-character-visibility: visible;	
+}
